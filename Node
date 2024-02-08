@@ -1,7 +1,7 @@
 {
-  "name": "<OPERATOR_NAME>",
-  "website": "<YOUR_WEBSITE>",
-  "description": "<DESCRIPTION>",
-  "logo": "https://www.example.com/logo.png",
-  "twitter": "<YOUR_TWITTER>"
+  "name": "Selina Zee Node",
+  "website": "https://medium.com/@nawfleen",
+  "description": "Making Eigen node run",
+  "logo": "https://medium.com/@nawfleen",
+  "twitter": "<https://twitter.com/selina_zee>"
 }
